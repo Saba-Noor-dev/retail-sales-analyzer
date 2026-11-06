@@ -1,0 +1,11 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price
+101,2026-05-01,Laptop,Computers,5,50000
+102,2026-06-08,Car Appliances,Electronics,2,10000
+103,2026-06-25,washing Machine,Home Appliances,2,60000
+104,2026-07-06,charger,Accessories,1,1000
+105,2026-08-17,powerbank,Electronics,3,6000
+106,2026-09-20,earbuds,Audio,1,4000
+107,2026-09-28,Car Appliances,Electronics,4,20000
+108,2026-10-07,mouse,Accessories,1,1000
+109,2026-10-19,keyboard,Accessories,1,5000
+110,2026-10-21,speakers,Audio,1,10000
